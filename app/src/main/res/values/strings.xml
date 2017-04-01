@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SA58</string>
+    <string name="setTime">Set Time</string>
+    <integer name="time_picker_mode">1</integer>
+</resources>
